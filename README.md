@@ -17,8 +17,6 @@ https://philopp.herokuapp.com
 | mail          | test@test.com   |
 | password      | 123abc          |
 
-<br>
-
 ## 利用方法
 
 このアプリケーションの利用方法を説明しましょう。
