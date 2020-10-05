@@ -1,24 +1,48 @@
-# README
+<h1 align="center">
+Philopp
+</h1>
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## 概要
 
-Things you may want to cover:
+哲学系チャットコミュニティサイト
 
-* Ruby version
+## URL
+https://philopp.herokuapp.com
 
-* System dependencies
+## テスト用アカウント
 
-* Configuration
+|               |                 |
+| ------------- | --------------- |
+| nickname      | test            |
+| mail          | test@test.com   |
+| password      | 123abc          |
 
-* Database creation
+<br>
 
-* Database initialization
+## 利用方法
 
-* How to run the test suite
+このアプリケーションの利用方法を説明しましょう。
 
-* Services (job queues, cache servers, search engines, etc.)
+## 目指した課題解決
 
-* Deployment instructions
+このアプリケーションを通じて、どのような人の、どのような課題を解決したかったかを書きましょう。
 
-* ...
+## 洗い出した要件
+
+スプレッドシートにまとめた要件定義を、マークダウンで記述しなおしましょう。
+
+## 実装した機能についてのGIFと説明
+
+実装した機能について、それぞれどのような特徴があるのか列挙しましょう。GIFを添えることで、イメージがしやすくなります。
+
+## 実装予定の機能
+
+洗い出した要件の中から、今後実装予定のものがあれば記述しましょう。
+
+## データベース設計
+
+ER図等を添付しましょう。
+
+## ローカルでの動作方法
+
+git cloneしてから、ローカルで動作をさせるまでに必要なコマンドを記述しましょう。この時、アプリケーション開発に使用した環境を併記することを忘れないでください（パッケージやRubyのバージョンなど）。
